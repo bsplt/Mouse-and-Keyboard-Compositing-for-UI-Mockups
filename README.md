@@ -33,7 +33,7 @@ Consider that rendering will take a while.
 Above you see an example output of `mouseRender.pde` as `gif` with a 30 fps timebase. 
 
 ## Example
-I used the software in this animation I made for an interaction design class, check it out:
+I used the software in this animation I made for an interaction design class, [check it out](https://www.youtube.com/watch?v=lwESUN0Did0):
 
 
 [![Example](http://img.youtube.com/vi/lwESUN0Did0/maxresdefault.jpg)](https://www.youtube.com/watch?v=lwESUN0Did0)
