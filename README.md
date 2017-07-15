@@ -1,6 +1,8 @@
 # Realistic Mouse and Keyboard Composting for animated UI mockups
 Have you ever had the problem that you had to animate mouse movement and keyboard typing by hand and it didn't look right? It happened to be several times when I had to work on UI demonstrations in After Effects. It is super hard to animate the natural movements and pauses a hand does on the interface. That's why I wrote these programs. What they basically do is record your input and render it nicely for compositing. All you need is the free and open source [Processing IDE](https://processing.org/download/) on your computer.
 
+**Check out the [example](https://github.com/bsplt/Mouse-and-Keyboard-Compositing-for-UI-Mockups/blob/master/README.md#example)!**
+
 ## Getting started
 In the repository you'll find two [Processing](https://processing.org/) sketches with similar function. They are slightly different in their requirements though. But in general they do one thing: They record you typing or clicking/moving your mouse and render it on transparent PNGs so that you can easily import the sequence into After Effects or your tool of choice.
 
